@@ -1,12 +1,8 @@
 # Airton Ponce
-**Software Engineer | Former FX & Fixed Income Portfolio Manager**  
-merging 7 years of software engineering with 6 years of traditional finance experience.
 
-## Professional Background
-Most of my recent work has been in private repositories (Bitbucket) building high-volume topup processing systems at Bemobi.
+Software Engineer (7+ yoe), former FX & fixed income portfolio manager. Most of my recent work has been in private repositories (Bitbucket) building high-volume topup processing systems at Bemobi.
 
 **Tech:** Ruby on Rails, PostgreSQL, AWS, Microservices  
-**Finance:** FX & Fixed Income Portfolio Management
 
 ## Pinned Repos & Recent Contributions
 
