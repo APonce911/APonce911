@@ -10,7 +10,7 @@ I'm a software engineer (7+ years of experience) and former portfolio manager (F
 - Game description doc update on **[bitcoin-dev-project/battle-of-galen-erso](https://github.com/bitcoin-dev-project/battle-of-galen-erso)**: [PR #13](https://github.com/bitcoin-dev-project/battle-of-galen-erso/pull/13).
 - **[ig-persona](https://github.com/ton-anywhere/ig-persona)**: human + LLM collaboration template for Instagram content creation using Claude Code agents.
 - **[secure-rolls](https://github.com/APonce911/secure-rolls)** for analogic entropy experiments.
-- My (old) site: **[jekyll-mywebsite](https://github.com/APonce911/jekyll-mywebsite)** (live at [tonanywhere.com](https://tonanywhere.com)).
+- **[my-favorite-prompts](https://github.com/ton-anywhere/my-favorite-prompts)** personal AI workspace for prompts, agents, skills, etc.
 
 ---
 
