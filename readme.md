@@ -4,6 +4,8 @@ I'm a software engineer (7+ years of experience) and former portfolio manager (F
 
 **Tech:** Ruby on Rails, PostgreSQL, AWS, Microservices  
 
+Lately, I've been taking Harvard's [CS50](https://cs50.harvard.edu/x/) online course, exploring local LLMs, and building a RAG from stratch that I plan to publish as a mobile app.
+
 ### Recent Contributions & Projects
 
 - Added MiniMax M2.7 model to **[anomalyco/models.dev](https://github.com/anomalyco/models.dev)** to enable its use through **[OpenCode](https://github.com/anomalyco/opencode)**: [PR #1224](https://github.com/anomalyco/models.dev/pull/1224).
