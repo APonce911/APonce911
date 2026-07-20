@@ -6,7 +6,8 @@ I'm a software engineer (7+ years of experience) and former portfolio manager (F
 
 Lately, I've been taking Harvard's [CS50](https://cs50.harvard.edu/x/) online course, exploring local LLMs, and building a RAG from stratch that I plan to publish as a mobile app.
 
-### Recent Contributions & Projects
+### Recent Projects & Contributions
+- **[fnmkt.co](https://fnmkt.co)**: Highly optimized static marketing website with perfect lighthouse scores on desktop. Made with Astro, TailwindCSS & Svelte.
 - **[Bruna UI](https://github.com/ton-anywhere/bruna-mvp)**: (MVP) low-latency UI critique tool powered by Gemma 4 on Cerebras, featuring a parallel panel of specialized AI agents for high-signal audits.
 - **[cerebras-cloud-sdk-ruby](https://github.com/ton-anywhere/cerebras-cloud-sdk-ruby)**: Ruby SDK for integrating Cerebras Cloud AI capabilities into Ruby applications.
 - Added MiniMax M2.7 model to **[anomalyco/models.dev](https://github.com/anomalyco/models.dev)** to enable its use through **[OpenCode](https://github.com/anomalyco/opencode)**: [PR #1224](https://github.com/anomalyco/models.dev/pull/1224).
