@@ -2,10 +2,6 @@
 
 I'm a software engineer (7+ years of experience) and former portfolio manager (FX & fixed income). Most of my recent work has been in private repositories (Bitbucket), building high-volume top-up processing systems at Bemobi.
 
-**Tech:** Ruby on Rails, PostgreSQL, AWS, Microservices  
-
-Lately, I've been taking Harvard's [CS50](https://cs50.harvard.edu/x/) online course, exploring local LLMs, and building a RAG from stratch that I plan to publish as a mobile app.
-
 ### Recent Projects & Contributions
 - **[fnmkt.co](https://fnmkt.co)**: Highly optimized static marketing website with perfect lighthouse scores on desktop. Made with Astro, TailwindCSS & Svelte.
 - **[Bruna UI](https://github.com/ton-anywhere/bruna-mvp)**: (MVP) low-latency UI critique tool powered by Gemma 4 on Cerebras, featuring a parallel panel of specialized AI agents for high-signal audits.
