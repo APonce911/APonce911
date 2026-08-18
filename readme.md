@@ -3,6 +3,7 @@
 I'm a software engineer (7+ years of experience) and former portfolio manager (FX & fixed income). Most of my recent work has been in private repositories (Bitbucket), building high-volume top-up processing systems at Bemobi.
 
 ### Recent Projects & Contributions
+- **[Bible](https://bible.airtonponce.com/)**: A multilingual RAG-on-Rails app that gives grounded, citation-backed answers to Bible questions in English and Portuguese.
 - **[fnmkt.co](https://fnmkt.co)**: Highly optimized static marketing website with excelent lighthouse scores. Made with Astro, TailwindCSS & Svelte.
 - **[Bruna UI](https://github.com/ton-anywhere/bruna-mvp)**: (MVP) low-latency UI critique tool powered by Gemma 4 on Cerebras, featuring a parallel panel of specialized AI agents for focused audits.
 - **[cerebras-cloud-sdk-ruby](https://github.com/ton-anywhere/cerebras-cloud-sdk-ruby)**: Ruby SDK for integrating Cerebras Cloud AI capabilities into Ruby applications.
